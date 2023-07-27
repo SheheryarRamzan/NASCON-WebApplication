@@ -21,6 +21,7 @@ Technologies Used:
 Front-end: ASP.NET framework
 Back-end: SQL Server
 Other technologies as needed (HTML, CSS, JavaScript, etc.)
+
 Project Goals:
 The primary objective of the NASCON Web Application is to create a centralized platform that optimizes the event experience for both participants and administrators. By providing an intuitive user interface, streamlined event registration, and efficient backend management, the application aims to enhance engagement and accessibility for all stakeholders involved in NASCON. The project serves as an integral tool in fostering a vibrant and dynamic environment for this prestigious annual event.
 
